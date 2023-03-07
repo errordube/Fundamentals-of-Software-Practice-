@@ -1,0 +1,7 @@
+Information about input file input1.txt
+
+Number of lines: 43
+Number of words: 394
+Number of words that end with a punctuation mark: 52
+Number of words that end without a punctuation mark: 342
+Number of characters: 2512
